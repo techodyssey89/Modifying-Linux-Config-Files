@@ -1,1 +1,1 @@
-![Config Chart](./Screenshot 2025-07-02 175140.png)
+![Config Chart](./Screenshot_2025-07-02_175140.png)
